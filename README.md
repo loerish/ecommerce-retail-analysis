@@ -52,6 +52,6 @@ This project is part of the Data Management coursework for the MSc in Data Scien
 
 - Submission deadline: 17 May 2025
 - GitHub collaborator added: bernardlkb@ukm.edu.my
-- Repository link: []
+- Repository link: [https://github.com/loerish/ecommerce-retail-analysis]
 
 
